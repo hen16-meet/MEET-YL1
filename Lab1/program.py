@@ -1,2 +1,5 @@
-print "Hen"
+def printMyName():
+	print "Hen"
+printMyName()
+
 
